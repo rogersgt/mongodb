@@ -1,0 +1,7 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "https://hub.docker.com/r/gradyrogers/mongodb/",
+  "author": "Grady Rogers",
+  "license": "ISC"
+}
